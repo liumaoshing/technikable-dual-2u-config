@@ -1,3 +1,4 @@
 build:
   settings:
     board_root: .
+CONFIG_BT_CTLR_TX_PWR_PLUS_8=y
